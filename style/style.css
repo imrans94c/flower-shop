@@ -1,0 +1,48 @@
+/* Common Shared Style */
+body{
+    margin:0px;
+    padding:0px;
+    font-family:lato;
+}
+
+.banner-section{
+    display:flex;
+    width: 1920px;
+    height: 850px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner-text-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    weight:708px;
+    margin:197px 0px 0px 240px;
+}
+
+.banner-text-details{
+    width:634px;
+    margin:20px 0px 0px 240px;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;    
+    padding: 20px 43px;
+    border:none;
+    margin:20px 531px 147px 240px;
+}
+
+.banner-img{
+    width:635px;
+    height:800px;
+    margin:50px 240px 0px 0px;
+}
