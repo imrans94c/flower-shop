@@ -223,6 +223,12 @@ body{
     margin: 24px 663px 48px 663px;
 }
 
+.social{
+    width:1440px;
+    height:396px;
+    margin:auto;
+}
+
 .social-flower-image-1{
     background-image:url('../assets/Flower 01.png');
     background-repeat:no-repeat;
@@ -257,19 +263,79 @@ body{
     height: 396px;
 }
 
-.social{
-    weight:1440px;
-    height:396px;
-}
-
-
 .social-flowers{
     display:flex;
     weight:1440px;
     height:396px;
     align-items:center;
     justify-content:space-around;
-    padding:0px 220px 20px 220px;
+}
+
+
+.latest-deal{
+    width: 1440px;
+    height: 449px;
+    background-image:url('../assets/Rectangle 9.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    border-radius: 8px;
+    margin:auto;
+    margin-top:128px;
+}
+
+.latest-deal-title{
+    width:373px;
+    height:48px;
+    background-color:red;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 222px 534px 0px 533px;
+    /* padding:40px; */
+}
+
+.latest-deal-details{
+    width: 231px;
+    height:30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 16px 605px 128px 604px;
+}
+
+.send-your-email{
+    width:866px;
+    height: 70px;
+    margin:48px 287px 221px 287px;
+}
+
+.send-your-email input[type="email"]{
+    width:640px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    padding:10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Subscribe{
+    width:180px;
+    height:70px;
+    color: #FFF;
+    text-align:center;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;    
+    padding: 22px 40px;
+    border:none;
+    margin-left:10px;
+    /* margin:32px 531px 147px 240px; */
 }
 
 
