@@ -132,6 +132,13 @@ body{
     margin:128px 240px;
 }
 
+.element{
+    padding-top:86px;
+    width:372px;
+    height:234px;
+    text-align:center;
+}
+
 .img-class{
     width: 88px;
     height: 88px;   
@@ -146,11 +153,123 @@ body{
     line-height: 35px;
 }
 
-
-.element{
-    padding-top:86px;
-    width:372px;
-    height:234px;
-    text-align:center;
+.hotdeal-section{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
 }
+
+.hotdeal-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 230px 342px 0px 423px; 
+}
+
+.off{
+    color:#E55473;
+}
+
+.hotdeal-details{
+    width: 594px;
+    height:60px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 24px 0px 32px 395px; 
+}
+
+.signup-btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    width:165px;
+    height:64px;
+    border-radius: 8px;
+    background: #E55473;    
+    padding: 20px 43px;
+    border:none;
+    margin:0px 531px 162px 603px;
+}
+
+.hotdeal-image{
+    width: 318px;
+    height: 420px;
+    margin:100px 429px 100px 0px;
+}
+
+.social-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top:128px;
+}
+
+.social-details{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 24px 663px 48px 663px;
+}
+
+.social-flower-image-1{
+    background-image:url('../assets/Flower 01.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 342px;
+    height: 396px;
+}
+
+.social-flower-image-2{
+    background-image:url('../assets/Rectangle 4.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 342px;
+    height: 396px;
+}
+.social-flower-image-3{
+    background-image:url('../assets/Rectangle 5.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 342px;
+    height: 396px;
+}
+.social-flower-image-4{
+    background-image:url('../assets/Rectangle 6.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 342px;
+    height: 396px;
+}
+
+.social{
+    weight:1440px;
+    height:396px;
+}
+
+
+.social-flowers{
+    display:flex;
+    weight:1440px;
+    height:396px;
+    align-items:center;
+    justify-content:space-around;
+    padding:0px 220px 20px 220px;
+}
+
 
