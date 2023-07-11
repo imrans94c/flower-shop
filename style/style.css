@@ -337,13 +337,20 @@ body{
 
 .flower-image-1{
     width:300px;
-    height:370px;
+    height:390px;
     border:2px solid gray;
     padding:18px;
 }
 .flower-image-1 h2{
     margin-left:10px;
 }
+
+.flower-image-1 i{
+    margin-left:10px;
+    color: #E55473; 
+}
+
+
 
 .b-btn{
     color: #FFF;
@@ -352,7 +359,7 @@ body{
     border-radius: 8px;
     background: #E55473;
     border:none;
-    padding: 4px 8px;
+    padding: 6px 10px;
     margin-left:10px;
 }
 
