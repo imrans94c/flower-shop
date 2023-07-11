@@ -5,6 +5,18 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;    
+    padding: 20px 43px;
+    border:none;
+    margin:32px 531px 147px 240px;
+}
+
+
 
 /* Banner Section */
 
@@ -33,16 +45,6 @@ body{
     line-height: 30px;
 }
 
-.btn{
-    color: #FFF;
-    font-size: 20px;
-    font-weight: 700;
-    border-radius: 8px;
-    background: #E55473;    
-    padding: 20px 43px;
-    border:none;
-    margin:32px 531px 147px 240px;
-}
 
 .banner-img{
     width:635px;
@@ -51,6 +53,7 @@ body{
 }
 
 /* Main section start */
+
 /* Feature Section */
 
 .feature-title{
@@ -455,5 +458,7 @@ body{
     font-weight: 400;
 }
 
+
+/* Finish */
 
 
