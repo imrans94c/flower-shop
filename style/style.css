@@ -14,6 +14,7 @@ body{
     padding: 20px 43px;
     border:none;
     margin:32px 531px 147px 240px;
+    cursor:pointer;
 }
 
 
@@ -214,6 +215,7 @@ body{
     padding: 20px 43px;
     border:none;
     margin:0px 531px 162px 603px;
+    cursor:pointer;
 }
 
 .hotdeal-image{
@@ -361,6 +363,7 @@ body{
     border:none;
     padding: 6px 10px;
     margin-left:10px;
+    cursor:pointer;
 }
 
 
@@ -425,6 +428,7 @@ body{
     padding: 22px 40px;
     border:none;
     margin-left:10px;
+    cursor:pointer;
 }
 
 /* Footer Section Start */
